@@ -1,6 +1,7 @@
 +++
 title = "King Audio"
 date = 2022-09-05T00:00:00Z
+aliases = ['about.html', 'contact.html', 'interview.html', 'testimonials.html']
 
 [extra]
 subtitle = "Transcription & Typing Services"
@@ -12,7 +13,7 @@ Sarah King has offered discreet, accurate and reliable transcription services wi
 If you have an interview, meeting, disciplinary meeting, dictation, focus group, video or lecture that you need to be transcribed, please don't hesitate to [request a quote.](#contact)
 
 
-## Transcription project experience
+## Fast & accurate transcription
 
 Sarah has worked with many clients in diverse fields and is highly experienced in interview and
 meeting transcriptions, including disciplinary, grievance and general human resources (HR) meetings.
@@ -28,11 +29,11 @@ Sarah's transcription projects have included:
 * HR disciplinary, grievance and investigation meetings and management enquiries
 
 You can trust that Sarah will strive to accurately transcribe even the most aberrant words, such as
-unusual place names, chemical compounds or other technical terms.
+unusual place names, chemical compounds and other technical terms.
 
-## Client feedback
+## Excellent client feedback
 
-Clients praise Sarah for her quick turnaround, transparent pricing and excellent accuracy. Here's
+Clients praise Sarah for her quick turnaround, transparent pricing and first-rate accuracy. Here's
 some feedback from a few.
 
 > It was wonderful to return back from my holidays to find all 4 focus groups transcribed. I have
@@ -50,7 +51,7 @@ some feedback from a few.
 > The quick turnaround time she provides helps me to programme our work schedule more easily. She is
 > a great contact and I have recommended her services to colleagues and both internal and external  
 
-## The transcription process
+## Consistent transcription process
 From quote to delivery, the entire project will be handled in-house by Sarah without any
 outsourcing. That ensures that you can be confident in a consistent and personal service.
 
@@ -64,7 +65,7 @@ Indicative project timeline:
 6. The transcript and audio files will be deleted on confirmation of receipt or 28 days, whichever
 	is earlier
 
-## Private and confidential
+## Private and confidential service
 
 King Audio is proactive at ensuring client confidentiality. All projects are completed by Sarah King
 and no outside services are engaged. A confidentiality agreement is also available.
