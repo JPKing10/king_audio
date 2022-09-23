@@ -51,6 +51,10 @@ some feedback from a few.
 > The quick turnaround time she provides helps me to programme our work schedule more easily. She is
 > a great contact and I have recommended her services to colleagues and both internal and external  
 
+> Chapman Lily Planning have procured the services of King Audio to provide a transcript of a Council’s planning committee meeting in support of a planning appeal which will include a claim for cists against the Council. Planning committee meeting minutes are notoriously limited in content, and having a word-for-word transcript could prove invaluable in demonstrating to the Government Planning Inspector how the Council’s planning committee failed to consider alternatives to refusing planning permission. 
+> 
+> King Audio provided a fast and efficient transcription service at an amazingly affordable cost. We will definitely be using King Audio again!
+
 ## Consistent transcription process
 From quote to delivery, the entire project will be handled in-house by Sarah without any
 outsourcing. That ensures that you can be confident in a consistent and personal service.
