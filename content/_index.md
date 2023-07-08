@@ -28,7 +28,7 @@ Sarah's transcription projects have included:
 * Video productions
 * HR disciplinary, grievance and investigation meetings and management enquiries
 
-You can trust that Sarah will strive to accurately transcribe even the most difficult words, such as
+You can trust that Sarah will strive to accurately transcribe even the most obscure words, such as
 unusual place names, chemical compounds and other technical terms.
 
 ## Excellent client feedback
