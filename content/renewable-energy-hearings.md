@@ -1,16 +1,22 @@
 +++
-title = "Specialist Transcription for High-Stakes Hearings and Renewable Energy Planning"
+title = "King Audio"
 template = "landing.html"
 
 [extra]
-subtitle = "Verbatim accuracy. Total confidentiality. Always handled in-house."
+subtitle = "Specialist transcription for high-stakes hearings and renewable energy planning."
 +++
 
 From confidential disciplinary proceedings to complex planning committee meetings shaping the future of clean energy infrastructure, King Audio delivers precise, legally robust transcription you can rely on.
 
-<p class="hero-cta"><a class="button" href="#contact">Request a Quote</a><span>Response within one business day.</span></p>
+<p class="hero-cta"><a class="button" href="#contact">Request a Quote</a><span class="hero-cta-note">Response within one business day.</span></p>
 
-<p class="positioning-strip">Trusted for sensitive proceedings since 2003 • No outsourcing • Confidential handling • Secure file deletion policy</p>
+<ul class="positioning-strip">
+	<li>Trusted for sensitive proceedings since 2003</li>
+	<li>High-accuracy verbatim transcripts</li>
+	<li>No outsourcing</li>
+	<li>Confidential handling</li>
+	<li>Secure file deletion policy</li>
+</ul>
 
 ## Disciplinary & HR Hearings
 
@@ -73,13 +79,22 @@ Transparent pricing, agreed turnaround times, and direct communication with the 
 
 ## Testimonials
 
-“Accurate, professional, and completely reliable with sensitive material.”
+> It was wonderful to return back from my holidays to find all 4 focus groups transcribed. I have
+> checked all of the files and they look great to me. Many thanks for the prompt and thorough job.  
 
-“Excellent grasp of technical terminology and complex discussions.”
+> King Audio Transcription and Typing Services has been a pleasure to work with. Through our initial
+> meeting, KATTS proved to be very pleasant and helpful. All email correspondences were very prompt
+> and provided all the information I needed. Arranging the transfer of files was quick and easy. The
+> transcriptions were accurate and turned around rapidly. The pricing of the services was very
+> reasonable and clearly explained.
+>
+> I fully intend to use KATTS in the future and will recommend them to anyone needing these services.  
 
-(Use real testimonials here.)
+> Sarah provides a valuable service to my organisation in producing accurate transcription services.
+> The quick turnaround time she provides helps me to programme our work schedule more easily. She is
+> a great contact and I have recommended her services to colleagues and both internal and external  
 
-## Contact
+## Contact {#contact}
 
 Need a precise written record of a hearing or planning meeting?
 

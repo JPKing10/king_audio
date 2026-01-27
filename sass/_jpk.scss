@@ -69,6 +69,10 @@ table thead th {
 	font-size: 1rem;
 }
 
+.hero-cta-note {
+	margin-top: 0.25rem;
+}
+
 .button {
 	display: inline-block;
 	background-color: #639F96;
@@ -85,6 +89,11 @@ table thead th {
 }
 
 .positioning-strip {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem 1rem;
+	justify-content: center;
 	background: rgba(99, 159, 150, 0.12);
 	border: 1px solid rgba(99, 159, 150, 0.35);
 	padding: 0.75rem 1rem;
@@ -92,6 +101,10 @@ table thead th {
 	text-align: center;
 	font-weight: 500;
 	margin: 1rem auto 2rem;
+}
+
+.positioning-strip li {
+	white-space: nowrap;
 }
 
 .index_content {
