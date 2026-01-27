@@ -8,10 +8,9 @@ subtitle = "Verbatim accuracy. Total confidentiality. Always handled in-house."
 
 From confidential disciplinary proceedings to complex planning committee meetings shaping the future of clean energy infrastructure, King Audio delivers precise, legally robust transcription you can rely on.
 
-**Request a Quote**  
-Response within one business day.
+<p class="hero-cta"><a class="button" href="#contact">Request a Quote</a><span>Response within one business day.</span></p>
 
-Trusted for sensitive proceedings since 2003 • No outsourcing • Confidential handling • Secure file deletion policy
+<p class="positioning-strip">Trusted for sensitive proceedings since 2003 • No outsourcing • Confidential handling • Secure file deletion policy</p>
 
 ## Disciplinary & HR Hearings
 

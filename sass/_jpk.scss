@@ -56,10 +56,61 @@ table thead th {
 	display: block;
 }
 
+.hero-cta {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	align-items: center;
+	margin: 1.5rem 0 1rem;
+}
+
+.hero-cta span {
+	color: #424543;
+	font-size: 1rem;
+}
+
+.button {
+	display: inline-block;
+	background-color: #639F96;
+	color: #fff;
+	padding: 0.6rem 1.5rem;
+	border-radius: 999px;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.button:hover {
+	background-color: #558c84;
+	color: #fff;
+}
+
+.positioning-strip {
+	background: rgba(99, 159, 150, 0.12);
+	border: 1px solid rgba(99, 159, 150, 0.35);
+	padding: 0.75rem 1rem;
+	border-radius: 999px;
+	text-align: center;
+	font-weight: 500;
+	margin: 1rem auto 2rem;
+}
+
+.index_content {
+	max-width: 62rem;
+	margin: 2rem auto 0;
+}
+
+.index_content > p {
+	line-height: 1.7;
+}
+
 @media only screen and (max-width: 600px) {
   .hero h1 span {
 		font-size: 0.35em;
   }
+
+	.positioning-strip {
+		border-radius: 0.75rem;
+	}
 }
 
 h2, h3, h4 {
