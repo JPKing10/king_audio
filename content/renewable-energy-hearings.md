@@ -8,7 +8,7 @@ subtitle = "Specialist transcription for high-stakes hearings and renewable ener
 
 From confidential disciplinary proceedings to complex planning committee meetings shaping the future of clean energy infrastructure, King Audio delivers precise, legally robust transcription you can rely on.
 
-<p class="hero-cta"><a class="button" href="#contact">Request a Quote</a><span class="hero-cta-note">Response within one business day.</span></p>
+<p class="hero-cta"><a class="button" href="#contact">Request a Quote →</a><span class="hero-cta-note">Response within one business day.</span></p>
 
 <ul class="positioning-strip">
 	<li>Trusted for sensitive proceedings since 2003</li>
@@ -67,6 +67,18 @@ All work is completed in-house. Confidentiality agreements are available. Sensit
 ### Clear, Reliable Service
 
 Transparent pricing, agreed turnaround times, and direct communication with the transcriber — no intermediaries.
+
+### Trusted by
+
+Sarah's transcription projects have included:
+
+- The Darwin College Lecture Series for the University of Cambridge since 2006
+- Patent applications in medical, pharmaceutical, automotive, telecommunications and technology industries
+- Interviews and focus groups for research projects (including PhDs) such as chemical process scale-up, health,
+	business practices in Asia, World War II history, art and education
+- Criminal defence lawyer interviews related to financial crimes
+- Video productions
+- HR disciplinary, grievance and investigation meetings and management enquiries
 
 ## How It Works
 
