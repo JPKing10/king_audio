@@ -1,14 +1,17 @@
 +++
-title = "King Audio"
+title = "Renewable Energy Planning Committee & Hearing Transcription"
 template = "landing.html"
 
 [extra]
-subtitle = "Specialist transcription for high-stakes hearings and renewable energy planning."
+subtitle = "Verbatim, in-house transcription for high-stakes disciplinary proceedings and complex clean energy infrastructure planning—delivered with strict confidentiality and meticulous accuracy."
 +++
 
-From confidential disciplinary proceedings to complex planning committee meetings shaping the future of clean energy infrastructure, King Audio delivers precise, legally robust transcription you can rely on.
+From confidential disciplinary proceedings to complex planning committee meetings shaping the future of clean energy infrastructure, King Audio delivers precise, procedurally rigorous transcription you can rely on.
 
-<p class="hero-cta"><a class="button" href="#contact">Request a Quote →</a><span class="hero-cta-note">Response within one business day.</span></p>
+Familiar with planning committee formats, EIA terminology, and S106 documentation needs.
+
+<a class="button hero-cta" href="#contact">Request a Quote →</a>
+<div class="hero-cta-note">Response within one business day.</div>
 
 <ul class="positioning-strip">
 	<li>Trusted for sensitive proceedings since 2003</li>
@@ -24,7 +27,7 @@ Over the past decade, King Audio has supported organisations with high-stakes di
 
 ## Planning Committee & Infrastructure Meetings
 
-Now offering specialist transcription for Planning Committee Meetings, with deep familiarity in the terminology, structure, and legal context of:
+Now offering specialist transcription for planning committee meetings, with deep familiarity in the terminology, structure, and procedural context of:
 
 - Solar farm developments
 - Wind energy projects
@@ -48,7 +51,7 @@ Accurate transcripts are essential for:
 - Section 106 negotiations
 - Land use and infrastructure proposals
 
-Every transcript is prepared with attention to technical terminology, policy references, and legal phrasing, ensuring a clear and reliable written record.
+Every transcript is prepared with attention to technical terminology, policy references, and procedural phrasing, ensuring a clear and reliable written record.
 
 ## Why King Audio
 
@@ -56,9 +59,9 @@ Every transcript is prepared with attention to technical terminology, policy ref
 
 Careful verbatim transcription with thorough proofreading and terminology research, including technical energy and planning language.
 
-### Legal & Procedural Awareness
+### Procedural Awareness
 
-Experience with formal hearings and committee structures means transcripts reflect the seriousness and format of official proceedings.
+Experience with formal hearings and committee structures means transcripts reflect the seriousness and procedural rigour of official proceedings.
 
 ### Strict Confidentiality
 
@@ -72,13 +75,23 @@ Transparent pricing, agreed turnaround times, and direct communication with the 
 
 Sarah's transcription projects have included:
 
-- The Darwin College Lecture Series for the University of Cambridge since 2006
+- HR disciplinary, grievance and investigation meetings and management enquiries
+- Local authority planning committee consultations on solar and BESS proposals
 - Patent applications in medical, pharmaceutical, automotive, telecommunications and technology industries
+- The Darwin College Lecture Series for the University of Cambridge since 2006
 - Interviews and focus groups for research projects (including PhDs) such as chemical process scale-up, health,
 	business practices in Asia, World War II history, art and education
 - Criminal defence lawyer interviews related to financial crimes
 - Video productions
-- HR disciplinary, grievance and investigation meetings and management enquiries
+
+<a class="button mid-cta" href="#contact">Request a Quote →</a>
+
+## Transcript Options
+
+- Verbatim or intelligent verbatim (when appropriate)
+- Timestamps (interval or speaker-change)
+- Speaker labels
+- Word, Google Doc, or PDF delivery
 
 ## How It Works
 
@@ -92,7 +105,7 @@ Sarah's transcription projects have included:
 ## Testimonials
 
 > It was wonderful to return back from my holidays to find all 4 focus groups transcribed. I have
-> checked all of the files and they look great to me. Many thanks for the prompt and thorough job.  
+> checked all of the files and they look great to me. Many thanks for the prompt and thorough job.
 
 > King Audio Transcription and Typing Services has been a pleasure to work with. Through our initial
 > meeting, KATTS proved to be very pleasant and helpful. All email correspondences were very prompt
@@ -100,11 +113,11 @@ Sarah's transcription projects have included:
 > transcriptions were accurate and turned around rapidly. The pricing of the services was very
 > reasonable and clearly explained.
 >
-> I fully intend to use KATTS in the future and will recommend them to anyone needing these services.  
+> I fully intend to use KATTS in the future and will recommend them to anyone needing these services.
 
 > Sarah provides a valuable service to my organisation in producing accurate transcription services.
 > The quick turnaround time she provides helps me to programme our work schedule more easily. She is
-> a great contact and I have recommended her services to colleagues and both internal and external  
+> a great contact and I have recommended her services to colleagues and both internal and external
 
 ## Contact {#contact}
 
@@ -123,9 +136,9 @@ Please complete this form to request a quote. Your details will only be used for
 purpose and will not be shared. Expect a reply within one business day.
 
 <input type="hidden" name="form-name" value="contact">
-<div class="alien-check">
+<div class="alien-check" aria-hidden="true">
 	<label>Fill out this box if you're an alien:
-		<input name="alien-field">
+		<input name="alien-field" tabindex="-1" autocomplete="off">
 	</label>
 	<input type="text" name="subject" value="Transcription Quote">
 </div>

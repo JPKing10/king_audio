@@ -58,21 +58,15 @@ table thead th {
 }
 
 .hero-cta {
-	display: flex;
-	flex-direction: column;
-	gap: 0.5rem;
-	align-items: center;
-	margin: 1.5rem 0 1rem;
-}
-
-.hero-cta span {
-	color: #424543;
-	font-size: 1rem;
-	display: block;
+	display: table;
+	margin: 1.5rem auto 0.5rem;
 }
 
 .hero-cta-note {
-	margin-top: 0.25rem;
+	margin-bottom: 1rem;
+	text-align: center;
+	color: #424543;
+	font-size: 1rem;
 }
 
 .button {
@@ -107,6 +101,11 @@ table thead th {
 
 .positioning-strip li {
 	white-space: nowrap;
+}
+
+.mid-cta {
+	display: table;
+	margin: 1rem auto 2rem;
 }
 
 .index_content {
