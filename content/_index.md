@@ -1,6 +1,5 @@
 +++
 title = "King Audio"
-date = 2022-09-05T00:00:00Z
 aliases = ['about.html', 'contact.html', 'interview.html', 'testimonials.html']
 
 [extra]
@@ -135,4 +134,3 @@ purpose and will not be shared. Expect a reply within one business day.
 To send audio securely, please use
 [SendThisFile](https://www.sendthisfile.com/f.jsp?id=pbqdyvPkN6jOmxgwOV8NUK0I). Unsolicited files
 will be ignored. 
-
