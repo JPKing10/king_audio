@@ -75,7 +75,8 @@ Transparent pricing, agreed turnaround times, and direct communication with the 
 
 ### Trusted by
 
-Sarah's transcription projects have included:
+<div class="trusted-block">
+<p>Sarah's transcription projects have included:</p>
 
 - HR disciplinary, grievance and investigation meetings and management enquiries
 - Local authority planning committee consultations on solar and BESS proposals
@@ -85,6 +86,7 @@ Sarah's transcription projects have included:
 	business practices in Asia, World War II history, art and education
 - Criminal defence lawyer interviews related to financial crimes
 - Video productions
+</div>
 
 <a class="button mid-cta" href="#contact">Request a Quote →</a>
 
