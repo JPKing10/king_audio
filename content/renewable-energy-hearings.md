@@ -1,17 +1,19 @@
 +++
-title = "Renewable Energy Planning Committee & Hearing Transcription"
+title = "Renewable Energy Planning & Hearing Transcription"
 template = "landing.html"
 
 [extra]
-subtitle = "Verbatim, in-house transcription for high-stakes disciplinary proceedings and complex clean energy infrastructure planning—delivered with strict confidentiality and meticulous accuracy."
+subtitle = "In-house, verbatim transcription for planning committees and high-stakes disciplinary hearings—confidential, precise, and meticulously proofread."
 +++
 
 From confidential disciplinary proceedings to complex planning committee meetings shaping the future of clean energy infrastructure, King Audio delivers precise, procedurally rigorous transcription you can rely on.
 
 Familiar with planning committee formats, EIA terminology, and S106 documentation needs.
 
-<a class="button hero-cta" href="#contact">Request a Quote →</a>
-<div class="hero-cta-note">Response within one business day.</div>
+<div class="hero-cta-group">
+	<a class="button hero-cta" href="#contact">Request a Quote →</a>
+	<span class="hero-cta-note">Response within one business day.</span>
+</div>
 
 <ul class="positioning-strip">
 	<li>Trusted for sensitive proceedings since 2003</li>
