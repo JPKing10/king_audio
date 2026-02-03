@@ -11,7 +11,10 @@ subtitle = "Renewable Energy Planning Transcription"
 
 Verbatim documentation for renewable energy developers, planning consultants, and local authorities. When every word matters, accuracy isn't optional.
 
-[Request a quote](#contact) to discuss your project.
+<div class="cta-wrapper">
+<a href="#contact" class="cta-button">Request a Quote</a>
+<p>Response within 1 business day</p>
+</div>
 
 ---
 
