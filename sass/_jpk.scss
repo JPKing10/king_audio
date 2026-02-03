@@ -111,3 +111,19 @@ form {
 form p {
 	font-size: 0.8em;
 }
+
+/* Featured testimonial styling */
+.featured-quote {
+	font-size: 1.15rem;
+	padding: 1.25rem;
+	background: rgba(99, 159, 150, 0.15);
+	border-left: 6px solid rgba(99, 159, 150, 0.7);
+	margin: 2rem 0;
+}
+
+/* Horizontal rule styling */
+hr {
+	border: none;
+	border-top: 1px solid rgba(99, 159, 150, 0.3);
+	margin: 2.5rem 0;
+}
