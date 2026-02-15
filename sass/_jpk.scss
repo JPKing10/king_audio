@@ -1,16 +1,36 @@
 /* JPK's 'enhancements' */
 /* Colours from Gruvbox https://github.com/morhetz/gruvbox */
 
-@font-face {
-	font-family: 'Mulish';
-	src: url('fonts/Mulish-VariableFont_wght.ttf') format('truetype');
+:root {
+	--font-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+	             "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji",
+	             "Segoe UI Emoji";
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
 }
 
 body.main {
-	font-size: 1.25rem;
-	font-family: 'Mulish', sans-serif;
+	font-family: var(--font-sans);
+	font-size: 18px;
+	line-height: 1.6;
 	font-weight: 400;
+	color: #111;
 	background-image: linear-gradient( to right, #fcffff, #f2fcfc);
+}
+
+p, li {
+	font-weight: 450;
+}
+
+@supports (font-variation-settings: normal) {
+	body.main { font-variation-settings: "wght" 450; }
+}
+
+small, .muted {
+	font-size: 0.9375rem;
+	line-height: 1.5;
 }
 
 .navbar {
@@ -110,4 +130,104 @@ form {
 
 form p {
 	font-size: 0.8em;
+}
+
+/* Featured testimonial styling */
+.featured-quote {
+	font-size: 1.15rem;
+	padding: 1.25rem;
+	background: rgba(99, 159, 150, 0.15);
+	border-left: 6px solid rgba(99, 159, 150, 0.7);
+	margin: 2rem 0;
+}
+
+/* Horizontal rule styling */
+hr {
+	border: none;
+	border-top: 1px solid rgba(99, 159, 150, 0.3);
+	margin: 2.5rem 0;
+}
+
+/* CTA button styling - matches form outline */
+a.cta-button {
+	display: inline-block;
+	padding: 0.75rem 2rem;
+	border: 2px solid #000;
+	border-bottom: 2px solid #000;
+	background: #fff;
+	color: #000;
+	text-decoration: none;
+	font-size: 1.1rem;
+	font-weight: 500;
+	box-shadow: rgba(99, 159, 150, 0.25) -5px 5px, rgba(99, 159, 150, 0.2) -10px 10px, rgba(99, 159, 150, 0.15) -15px 15px, rgba(99, 159, 150, 0.1) -20px 20px;
+	transition: all 0.2s ease;
+}
+
+a.cta-button:hover {
+	background: #000;
+	color: #fff;
+	border-color: #000;
+	text-decoration: none;
+}
+
+.cta-wrapper {
+	text-align: center;
+	margin: 2rem 0;
+}
+
+.cta-wrapper p {
+	margin-top: 0.5rem;
+	font-size: 0.95rem;
+	color: #666;
+	margin-bottom: 0;
+}
+
+/* Reasons grid */
+.reasons-grid {
+	margin: 3rem auto 2rem;
+	max-width: 40rem;
+	padding: 2rem;
+	border: 2px solid #000;
+	box-shadow: rgba(99, 159, 150, 0.25) -5px 5px, rgba(99, 159, 150, 0.2) -10px 10px, rgba(99, 159, 150, 0.15) -15px 15px, rgba(99, 159, 150, 0.1) -20px 20px, rgba(99, 159, 150, 0.05) -25px 25px;
+	background: #fff;
+}
+
+.reasons-headline {
+	text-align: center;
+	margin-bottom: 2rem;
+	font-size: 1.4rem;
+}
+
+.reasons-cards {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 1rem 1.5rem;
+}
+
+.reason-card {
+	padding: 0.5rem 0;
+}
+
+.reason-icon {
+	font-size: 1.6rem;
+	margin-bottom: 0.5rem;
+}
+
+.reason-card strong {
+	display: block;
+	font-size: 1rem;
+	margin-bottom: 0.4rem;
+}
+
+.reason-card p {
+	font-size: 0.9rem;
+	color: #444;
+	margin: 0;
+	line-height: 1.4;
+}
+
+@media only screen and (max-width: 600px) {
+	.reasons-cards {
+		grid-template-columns: 1fr;
+	}
 }
