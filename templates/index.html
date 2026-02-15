@@ -12,7 +12,7 @@
       <title>{% block title %}{{ config.title }}{% endblock title %}</title>
 
       {% block css %}
-          <link rel="stylesheet" href="{{ get_url(path="site.css", trailing_slash=false) | safe }}">
+          <link rel="stylesheet" href="/site.css">
       {% endblock css %}
 
       {% block extra_head %}
