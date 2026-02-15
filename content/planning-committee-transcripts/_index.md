@@ -66,7 +66,7 @@ When a solar farm or battery storage project gets refused, the reasons on paper 
 A verbatim transcript gives you the defensible record minutes can't.
 
 <blockquote class="featured-quote">
-"I've used your transcripts numerous times now to show unreasonable behaviour by planning committees. I've won a couple of costs applications off the back of the transcript alone, because it shows verbatim how the decisions were reached. They're especially useful in officer overturns."
+I've used your transcripts numerous times now to show unreasonable behaviour by planning committees. I've won a couple of costs applications off the back of the transcript alone, because it shows verbatim how the decisions were reached. They're especially useful in officer overturns.
 <br><br>
 — <em>Planning Consultant</em>
 </blockquote>
@@ -104,8 +104,6 @@ Clients rely on transcripts not just for records, but for evidence, review, and 
 ## Contact
 
 Whether you have a single committee recording or ongoing transcription needs, I'd be happy to discuss how I can help. Quotes are free and typically returned within one business day.
-
-Current availability is limited to maintain quality and turnaround times.
 
 <form class="contact" action="/contact_success" method="POST" name="renewable-energy-contact"
 netlify-honeypot="alien-field" data-netlify="true">
