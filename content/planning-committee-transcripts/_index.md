@@ -10,7 +10,7 @@ Verbatim documentation for renewable energy developers, planning consultants, an
 
 <div class="cta-wrapper">
 <a href="#contact" class="cta-button">Request a Quote</a>
-<p>Response within 1 business day</p>
+<p>Response within 1 business day.</p>
 <p>Quotes are free and carry no obligation.</p>
 </div>
 
