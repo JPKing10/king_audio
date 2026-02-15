@@ -1,6 +1,5 @@
 +++
 title = "King Audio"
-date = 2022-09-05T00:00:00Z
 aliases = ['about.html', 'contact.html', 'interview.html', 'testimonials.html']
 
 [extra]

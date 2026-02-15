@@ -160,3 +160,61 @@ a.cta-button:hover {
 	font-size: 0.95rem;
 	color: #666;
 }
+
+/* Reasons grid */
+.reasons-grid {
+	margin: 3rem 0 2rem;
+	padding: 2.5rem 1.5rem;
+	background: rgba(99, 159, 150, 0.06);
+	border-radius: 4px;
+}
+
+.reasons-headline {
+	text-align: center;
+	margin-bottom: 2rem;
+	font-size: 1.4rem;
+}
+
+.reasons-cards {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 1.5rem;
+}
+
+.reason-card {
+	background: #fff;
+	padding: 1.25rem;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	box-shadow: rgba(99, 159, 150, 0.15) -3px 3px, rgba(99, 159, 150, 0.1) -6px 6px;
+}
+
+.reason-icon {
+	font-size: 1.6rem;
+	margin-bottom: 0.5rem;
+}
+
+.reason-card strong {
+	display: block;
+	font-size: 1rem;
+	margin-bottom: 0.4rem;
+}
+
+.reason-card p {
+	font-size: 0.9rem;
+	color: #444;
+	margin: 0;
+	line-height: 1.4;
+}
+
+@media only screen and (max-width: 768px) {
+	.reasons-cards {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.reasons-cards {
+		grid-template-columns: 1fr;
+	}
+}

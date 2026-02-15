@@ -1,6 +1,5 @@
 +++
 title = "King Audio"
-date = 2026-02-03T00:00:00Z
 template = "index.html"
 
 [extra]
@@ -14,6 +13,49 @@ Verbatim documentation for renewable energy developers, planning consultants, an
 <div class="cta-wrapper">
 <a href="#contact" class="cta-button">Request a Quote</a>
 <p>Response within 1 business day</p>
+</div>
+
+<div class="reasons-grid">
+<h3 class="reasons-headline">Why Planning Professionals Choose King Audio</h3>
+<div class="reasons-cards">
+
+<div class="reason-card">
+<div class="reason-icon">&#x1f3af;</div>
+<strong>Verbatim Accuracy That Stands Up in Appeals</strong>
+<p>Transcripts capture <em>exactly</em> what was said — not summaries — providing reliable evidence for inspectors, appeals, and costs applications.</p>
+</div>
+
+<div class="reason-card">
+<div class="reason-icon">&#x1f3d7;&#xfe0f;</div>
+<strong>Specialist Planning &amp; Renewable Energy Expertise</strong>
+<p>Familiar with real-world committee terminology: DCOs, NSIPs, TCPA applications, EIAs, S106 negotiations, and infrastructure policy language.</p>
+</div>
+
+<div class="reason-card">
+<div class="reason-icon">&#x2696;&#xfe0f;</div>
+<strong>Legal-Grade Transcription Standards</strong>
+<p>Background in disciplinary and tribunal transcription where precision is mandatory. The same evidential-level rigor applied to planning proceedings.</p>
+</div>
+
+<div class="reason-card">
+<div class="reason-icon">&#x1f512;</div>
+<strong>Confidential by Design</strong>
+<p>No outsourcing, no third parties, no AI auto-transcripts. All work handled personally and securely, with controlled file deletion after delivery.</p>
+</div>
+
+<div class="reason-card">
+<div class="reason-icon">&#x2705;</div>
+<strong>Proven Impact for Planning Professionals</strong>
+<p>Transcripts used successfully to demonstrate procedural failures and unreasonable decision-making in committee proceedings.</p>
+</div>
+
+<div class="reason-card">
+<div class="reason-icon">&#x23f1;&#xfe0f;</div>
+<strong>Reliable Turnaround for Deadline-Driven Cases</strong>
+<p>Quotes returned within one business day and delivery schedules agreed upfront for appeals and submissions on strict timelines.</p>
+</div>
+
+</div>
 </div>
 
 ---
