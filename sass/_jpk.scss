@@ -156,17 +156,20 @@ a.cta-button:hover {
 }
 
 .cta-wrapper p {
-	margin-top: 0.75rem;
+	margin-top: 0.5rem;
 	font-size: 0.95rem;
 	color: #666;
+	margin-bottom: 0;
 }
 
 /* Reasons grid */
 .reasons-grid {
-	margin: 3rem 0 2rem;
-	padding: 2.5rem 1.5rem;
-	background: rgba(99, 159, 150, 0.06);
-	border-radius: 4px;
+	margin: 3rem auto 2rem;
+	max-width: 40rem;
+	padding: 2rem;
+	border: 2px solid #000;
+	box-shadow: rgba(99, 159, 150, 0.25) -5px 5px, rgba(99, 159, 150, 0.2) -10px 10px, rgba(99, 159, 150, 0.15) -15px 15px, rgba(99, 159, 150, 0.1) -20px 20px, rgba(99, 159, 150, 0.05) -25px 25px;
+	background: #fff;
 }
 
 .reasons-headline {
@@ -177,16 +180,12 @@ a.cta-button:hover {
 
 .reasons-cards {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	gap: 1.5rem;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 1rem 1.5rem;
 }
 
 .reason-card {
-	background: #fff;
-	padding: 1.25rem;
-	border: 1px solid #ddd;
-	border-radius: 3px;
-	box-shadow: rgba(99, 159, 150, 0.15) -3px 3px, rgba(99, 159, 150, 0.1) -6px 6px;
+	padding: 0.5rem 0;
 }
 
 .reason-icon {
@@ -205,12 +204,6 @@ a.cta-button:hover {
 	color: #444;
 	margin: 0;
 	line-height: 1.4;
-}
-
-@media only screen and (max-width: 768px) {
-	.reasons-cards {
-		grid-template-columns: repeat(2, 1fr);
-	}
 }
 
 @media only screen and (max-width: 600px) {

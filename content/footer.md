@@ -9,5 +9,7 @@ Sarah King
 King Audio Transcription & Typing Services  
 24 Lodge Close  
 Poole  
-BH14 9BD   
+BH14 9BD
 UK
+
+Over 20 years' professional transcription experience.
