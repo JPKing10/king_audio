@@ -1,6 +1,5 @@
 +++
 title = "King Audio"
-date = 2022-09-05T00:00:00Z
 template = "index.html"
 
 [extra]
